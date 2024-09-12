@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+My name is Ruth Melese and I'm a 2nd year student at the University of Virginia. 
 <!--
 **ruthmelese/ruthmelese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
